@@ -1,6 +1,4 @@
-import logo from "./logo.svg";
 import "antd/dist/antd.min.css";
-import { Button } from "antd";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Homepage from "./pages/Homepage";
 import Items from "./pages/Items";
